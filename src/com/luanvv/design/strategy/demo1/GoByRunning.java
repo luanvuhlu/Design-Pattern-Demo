@@ -6,6 +6,6 @@ package com.luanvv.design.strategy.demo1;
 public class GoByRunning implements IAlgorithm {
     @Override
     public void go() {
-        System.out.println("I am Flash");
+        System.out.println("I am Flash!");
     }
 }
